@@ -3,6 +3,7 @@
 ## z17 CX
 
 - [mail@z17.cx](mailto:mail@z17.cx)
+- [z17.cx.gpg](/keys/z17.cx.gpg)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -23,6 +24,7 @@ XIGP3ZOBIPfToUN2xSgdy4QgzJv5ZXJJGi7p+BHnGwD/V0HZmhdvAg2IbPSESOH+
 ## z17 Dev
 
 - [mail@z17.dev](mailto:mail@z17.dev)
+- [z17.dev.gpg](/keys/z17.dev.gpg)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
