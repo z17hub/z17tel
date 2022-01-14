@@ -1,0 +1,43 @@
+title: "z17 TEL"
+description: "Here is information about me."
+image: ""
+lang: "ru_RU"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: ""
+
+author:
+  name: "z17 CX"
+  email: "mail@z17.im"
+  github: "z17cx"
+  twitter: "z17cx"
+
+twitter:
+  username: "z17cx"
+  card: summary
+
+social:
+  name: "z17 CX"
+  links:
+    - https://z17.tel
+    - https://facebook.com/z17cx
+    - https://github.com/z17cx
+    - https://gitlab.com/z17cx
+    - https://instagram.com/z17cx
+    - https://linkedin.com/in/z17cx
+    - https://t.me/z17cx
+    - https://twitch.tv/z17cx
+    - https://twitter.com/z17cx
+    - https://vk.com/z17cx
+
+webmaster_verifications:
+  google: ""
+  yandex: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
