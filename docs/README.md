@@ -1,2 +1,2 @@
 - [+7 936 111-0-911](tel:+79361110911)
-- [mail@z17.im](mailto:mail@z17.im)
+- [mail@z17.cx](mailto:mail@z17.cx)
