@@ -41,7 +41,7 @@ XIGP3ZOBIPfToUN2xSgdy4QgzJv5ZXJJGi7p+BHnGwD/V0HZmhdvAg2IbPSESOH+
 - [GitHub](https://github.com/z17cx)
 - [GitLab](https://gitlab.com/z17cx)
 
-## Donations
+### Donations
 
 - [Patreon](https://patreon.com/z17cx)
 - [Ko-fi](https://ko-fi.com/z17cx)
